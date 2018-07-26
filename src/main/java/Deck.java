@@ -1,3 +1,4 @@
+
 public class Deck {
     private Card cards[][];
 
@@ -9,6 +10,8 @@ public class Deck {
             }
         }
     }
+
+
 
     public Card getCard(int suit,int rank){
         return cards[suit][rank];
