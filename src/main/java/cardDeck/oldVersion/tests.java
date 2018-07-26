@@ -1,3 +1,5 @@
+package cardDeck.oldVersion;
+
 import java.util.*;
 
 public class tests {
@@ -20,8 +22,6 @@ public class tests {
         }
         System.out.println("There are "+count+" cards in this deck");
 
-        //default interface
-        TestInterface ti=new TestInterface();
-        ti.show();
+
     }
 }

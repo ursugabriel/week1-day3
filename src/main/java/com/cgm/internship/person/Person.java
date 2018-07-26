@@ -1,3 +1,5 @@
+package com.cgm.internship.person;
+
 import org.joda.time.DateTime;
 
 public class Person {

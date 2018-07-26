@@ -1,3 +1,5 @@
+package com.cgm.internship.person;
+
 interface defaultInterface {
 
     default void show(){

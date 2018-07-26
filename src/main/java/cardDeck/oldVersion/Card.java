@@ -1,3 +1,5 @@
+package cardDeck.oldVersion;
+
 public class Card {
 
     private int suit;
