@@ -1,4 +1,4 @@
-package newVersion;
+package com.cgm.internship.cardDeck.newVersion;
 
 import java.util.ArrayList;
 import java.util.List;

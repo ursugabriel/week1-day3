@@ -1,4 +1,4 @@
-package cardDeck.oldVersion;
+package com.cgm.internship.cardDeck.oldVersion;
 
 public class Card {
 

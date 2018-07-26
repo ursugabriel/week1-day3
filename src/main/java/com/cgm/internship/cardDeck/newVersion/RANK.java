@@ -1,4 +1,4 @@
-package newVersion;
+package com.cgm.internship.cardDeck.newVersion;
 
 public enum RANK {
     TWO,
